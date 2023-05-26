@@ -15,7 +15,7 @@ programming start pattern code
 python pattern code example
 pattern programming using recursion
 
-PAS TES MYSQL :
+PAS TES BACKEND (MYSQL) :
 mysql query
 how to run mysql in cmd
 mysql create table
