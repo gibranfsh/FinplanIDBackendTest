@@ -1,0 +1,24 @@
+PAS TES LOGIKA :
+java program with no constructor (only using static methods)
+java cheatsheet
+java string cheatsheet
+java array
+java arraylists
+tolowercase java
+ascii
+bilangan cacah
+how to get the smallest number on an array java
+java pattern tutorial
+java star pattern
+programming pattern code
+programming start pattern code
+python pattern code example
+pattern programming using recursion
+
+PAS TES MYSQL :
+mysql query
+how to run mysql in cmd
+mysql create table
+mysql insert into values
+mysql indexing
+what is the default index when create index in mysql?
